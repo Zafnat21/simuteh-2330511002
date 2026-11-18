@@ -1,0 +1,61 @@
+nama,kelas,kondisi,persen_acuan,persen_prediksi,jumlah_acuan,jumlah_prediksi,kelas_prediksi,kelas_acuan
+teh_001.png,sehat,normal,0.0,0.0,0,0,Sehat,Sehat
+teh_002.png,sehat,gelap,0.0,0.034,0,1,Sehat,Sehat
+teh_003.png,sehat,terang,0.0,0.032,0,1,Sehat,Sehat
+teh_004.png,sehat,kontras_rendah,0.0,0.0,0,0,Sehat,Sehat
+teh_005.png,sehat,bayangan,0.0,0.116,0,3,Ringan,Sehat
+teh_006.png,sehat,normal,0.0,0.0,0,0,Sehat,Sehat
+teh_007.png,sehat,gelap,0.0,0.032,0,1,Sehat,Sehat
+teh_008.png,sehat,terang,0.0,0.131,0,4,Ringan,Sehat
+teh_009.png,sehat,kontras_rendah,0.0,0.0,0,0,Sehat,Sehat
+teh_010.png,sehat,bayangan,0.0,0.027,0,1,Sehat,Sehat
+teh_011.png,sehat,normal,0.0,0.0,0,0,Sehat,Sehat
+teh_012.png,sehat,gelap,0.0,0.0,0,0,Sehat,Sehat
+teh_013.png,sehat,terang,0.0,0.04,0,1,Sehat,Sehat
+teh_014.png,sehat,kontras_rendah,0.0,0.0,0,0,Sehat,Sehat
+teh_015.png,sehat,bayangan,0.0,0.0,0,0,Sehat,Sehat
+teh_016.png,sehat,normal,0.0,0.028,0,1,Sehat,Sehat
+teh_017.png,sehat,gelap,0.0,0.027,0,1,Sehat,Sehat
+teh_018.png,sehat,terang,0.0,0.029,0,1,Sehat,Sehat
+teh_019.png,sehat,kontras_rendah,0.0,0.0,0,0,Sehat,Sehat
+teh_020.png,sehat,bayangan,0.0,0.064,0,2,Sehat,Sehat
+teh_021.png,ringan,normal,0.54,0.151,3,1,Ringan,Bercak Ringan
+teh_022.png,ringan,gelap,0.42,0.336,1,1,Ringan,Bercak Ringan
+teh_023.png,ringan,terang,0.65,0.447,2,3,Ringan,Bercak Ringan
+teh_024.png,ringan,kontras_rendah,0.1,0.0,1,0,Sehat,Bercak Ringan
+teh_025.png,ringan,bayangan,0.58,0.309,3,3,Ringan,Bercak Ringan
+teh_026.png,ringan,normal,0.12,0.044,1,1,Sehat,Bercak Ringan
+teh_027.png,ringan,gelap,0.43,0.265,3,3,Ringan,Bercak Ringan
+teh_028.png,ringan,terang,0.16,0.149,1,2,Ringan,Bercak Ringan
+teh_029.png,ringan,kontras_rendah,0.46,0.224,2,2,Ringan,Bercak Ringan
+teh_030.png,ringan,bayangan,0.58,0.387,3,3,Ringan,Bercak Ringan
+teh_031.png,ringan,normal,0.34,0.232,2,2,Ringan,Bercak Ringan
+teh_032.png,ringan,gelap,0.81,0.619,3,3,Ringan,Bercak Ringan
+teh_033.png,ringan,terang,0.14,0.135,1,3,Ringan,Bercak Ringan
+teh_034.png,ringan,kontras_rendah,0.26,0.194,1,2,Ringan,Bercak Ringan
+teh_035.png,ringan,bayangan,0.16,0.182,1,4,Ringan,Bercak Ringan
+teh_036.png,ringan,normal,0.5,0.368,2,3,Ringan,Bercak Ringan
+teh_037.png,ringan,gelap,0.19,0.165,1,1,Ringan,Bercak Ringan
+teh_038.png,ringan,terang,0.43,0.292,2,3,Ringan,Bercak Ringan
+teh_039.png,ringan,kontras_rendah,0.13,0.043,1,1,Sehat,Bercak Ringan
+teh_040.png,ringan,bayangan,0.27,0.097,2,1,Sehat,Bercak Ringan
+teh_041.png,berat,normal,5.86,4.304,11,10,Berat,Bercak Berat
+teh_042.png,berat,gelap,3.11,2.482,6,6,Berat,Bercak Berat
+teh_043.png,berat,terang,5.62,4.581,7,7,Berat,Bercak Berat
+teh_044.png,berat,kontras_rendah,7.07,5.973,8,9,Berat,Bercak Berat
+teh_045.png,berat,bayangan,7.28,5.445,12,12,Berat,Bercak Berat
+teh_046.png,berat,normal,5.37,4.154,10,11,Berat,Bercak Berat
+teh_047.png,berat,gelap,6.38,5.843,11,11,Berat,Bercak Berat
+teh_048.png,berat,terang,7.96,4.057,7,7,Berat,Bercak Berat
+teh_049.png,berat,kontras_rendah,6.71,3.87,11,10,Berat,Bercak Berat
+teh_050.png,berat,bayangan,5.73,4.86,9,11,Berat,Bercak Berat
+teh_051.png,berat,normal,5.9,3.559,10,10,Berat,Bercak Berat
+teh_052.png,berat,gelap,7.73,7.038,10,10,Berat,Bercak Berat
+teh_053.png,berat,terang,4.51,3.137,9,11,Berat,Bercak Berat
+teh_054.png,berat,kontras_rendah,3.19,1.986,5,6,Ringan,Bercak Berat
+teh_055.png,berat,bayangan,4.03,2.999,7,7,Berat,Bercak Berat
+teh_056.png,berat,normal,3.3,2.802,6,6,Berat,Bercak Berat
+teh_057.png,berat,gelap,6.56,4.255,11,9,Berat,Bercak Berat
+teh_058.png,berat,terang,3.96,1.788,6,6,Ringan,Bercak Berat
+teh_059.png,berat,kontras_rendah,5.63,3.319,6,7,Berat,Bercak Berat
+teh_060.png,berat,bayangan,3.13,2.881,7,7,Berat,Bercak Berat
